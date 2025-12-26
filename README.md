@@ -14,10 +14,6 @@ This repository contains my **academic assignments** and **personal projects** c
 
 ---
 
-## 🗂️ Repository Structure
-
----
-
 ## 📝 Assignments
 This section includes:
 - College assignments  
@@ -26,7 +22,6 @@ This section includes:
 - Well-structured and commented code  
 
 **Languages used:**
-- C
 - JavaScript
 - HTML & CSS
 - (More coming soon 🚀)
@@ -37,28 +32,17 @@ This section includes:
 This section contains:
 - Personal and academic projects  
 - Beginner to intermediate level applications  
-- Real-world problem-based implementations  
 
 Each project includes:
 - Source code  
-- Proper file structure  
-- Explanation (where required)
+- Proper file structure
 
 ---
 
 ## 🚀 Skills & Technologies
-- Programming Basics  
-- C Programming  
+- Programming Basics   
 - JavaScript  
 - HTML & CSS  
 - Problem Solving  
-- Git & GitHub  
-
----
-
-## 📌 How to Use This Repository
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
 
 
