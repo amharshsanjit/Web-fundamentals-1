@@ -1,0 +1,34 @@
+* {
+            font-family: Arial, sans-serif;
+            color: #ff6600;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        p {
+            font-size: 16px;
+        }
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+        }
+
+        #special {
+            color: rgb(0, 0, 0);
+            background-color: rgb(172, 226, 172);
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        div p {
+            color: darkred;
+            font-style: italic;
+        }
+
+        h2, h3 {
+            color: purple;
+            text-decoration: underline;
+        }
